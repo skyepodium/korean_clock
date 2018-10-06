@@ -1,21 +1,15 @@
-# korean_clock
+# 한글시계 by Vue js
 
-> A Vue.js project
+> 뷰 연습
 
 ## Build Setup
 
 ``` bash
-# install dependencies
+1. npm 설치
 npm install
 
-# serve with hot reload at localhost:8080
+# 2. 서버 실행 localhost:8080
 npm run dev
+```   
 
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+![Alt Text](./readme_image/korean_clock.gif)
